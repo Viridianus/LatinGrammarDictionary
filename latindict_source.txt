@@ -1,0 +1,129 @@
+Scīpio, Scīpiōnis|m
+vĭdeo, vīdi, vīsum, vĭdere|v|
+audio, audivi, audītum, audire|v|
+antīquus, antīqua, antīquum|adj|vetus
+feriae,    feriarum|f pl|dies festae
+   mens,mentis|s
+qui, quae, quod|pron
+quis, cuius|pron
+ducenti, ducentae, ducenta|num
+Aeneas, Aeneae|m
+cometes,cometae|m
+Helle, Helles|f
+aliquis, aliquae, aliquod|pron
+apud|prep
+totus, tota,totum|adjpron
+ad|prp
+et|conj
+quo|apron
+ibi|advpron
+quisque, quaeque, quidque|pron
+ego,mei|pron
+suavis,suave|a
+res,rei|f
+a|n|littera
+a(b)|prp
+ăbăcus,i|m
+ăbălieno,avi,atum,are|v
+ăbăvus,ăbăvi|m|ăb-ăvus
+abdicatio,abdicatiōnis|f
+abdico,avi,atum,are|v
+abdico,abdixi,abdicere|v
+abdĭtus,a,um|adj
+aspĕr,a,um|adj
+abdo,abdidi,abditum,abdere|v
+abdomen,abdominis|n
+abduco,abduxi,abductum,ere|v
+ăbeo,abii,abitum,abire|v
+ăbĕquĭto,avi,atum,are|v
+ăberro,avi,atum,are|v
+ăbhinc|adv
+ăbhorreo,ui,ere|v
+abicio,abieci,abiectum,ere|v
+abiegnus,a,um|a
+abies,abiĕtis|f
+ăbĭgo,ăbegi,ăbactum,ere|v
+abitus,us|m|de abeo
+abjūdico,avi,atum,are|v
+abiungo,abiunxi,abiunctum,ere|v
+abiuro,avi,atum,are|v
+ablegatio,ōnis|f
+ablego,avi,atum,are|v
+abludo,-,ere|v
+abluo,ablui,ablutum,ere|v|abluĭturus
+abnĕgo,avi,atum,are|v
+abnormis,e|a
+abnuo,abnui,abnuĭturus,ere|v
+ăbŏleo,evi,ĭtum,ere|v
+ăbŏlesco,abŏlevi,ere|v
+ăbŏlĭtio,ōnis|f
+ăbōmĭnor,atus sum, ari|v
+ăbortio, ōnis|f
+ăbortīvus,a,um|a
+abrado,abrasi,abrasum,abradere|v
+abrĭpio, abrĭpui, abreptum, ere|v
+abrŏgo,avi,atum,are|v
+abrŏtŏnum,i|n
+abrŏtŏnus,i|f
+abrumpo,abrūpi, abruptum,ere|v
+abruptio,ōnis|f
+abruptus,a,um|adj
+abscedo, abscessi,abscessum,ere|v
+abscessus,us|m
+abscīdo,abscīdī, abscīsum,ere|v
+abscindo,abscĭdi,abscissum,ere|v
+abscondĭtus,a,um|adj
+abscondo,abscondi,abscondĭtum,ere|v
+abscondo,abscondĭdi,abscondĭtum,ere|v|idem
+absentia,ae|f
+absĭmĭlis,e|adj|cum negatione saepe
+absinthium,i|n
+absisto,abstĭti,ere|v
+absolūtio,ōnis|f
+absolūtus,a,um|adj
+absolvo,absolvi,absolūtum,ere|v
+absonus,a,um|adj
+absorbeo,ui,absorptum,ere|v
+absque|prp
+abstemius,a,um|a
+abstergeo,abstersi,abstersum,ere|v
+absterreo,ui,ĭtum,ere|v
+abstinens,abstinentis|adj
+abstinentia,ae|f
+abstineo,ui,ere|v
+abstraho,abstraxi,abstractum,ere|v
+abstrūdo,abstrūsi,abstrūsum,ere|v
+absum,afui,afuturus,abesse|v
+absumo,absumpsi,absumptum,ere|v
+absurdus,a,um|a
+ăbundans,abundantis|adj
+ăbundantia,ae|f
+ăbunde|a
+ăbundo,avi,atum,are|v
+ăb-usque|prp
+ăbūsus,ūs|m
+ăbūtor,ăbūsus sum,i|v
+ac|conj
+ăcălanthis,ăcălanthĭdis|f
+acanthus,i|f
+accedo,accessi,accessum,ere|v
+accĕlĕro,avi,atum,are|v
+accendo,accendi,accensum,ere|v
+accenseo,-,ere|v
+accensus,i|m
+acceptio,ōnis|f
+acceptus,a,um|a
+accessio,ōnis|f
+accessus,us|m
+accĭdo,accĭdi,ere|v
+accīdo,accīdī, accīsum,ere|v
+accingo,accinxi,accinctum,ere|v
+accio,ivi,ītum,ire|v|spell)
+accĭpio, accepi,acceptum,ere|v
+accĭpĭter,accĭpĭtris|m
+accītus,us|m
+acclamatio,ōnis|f
+ōs, ōris|n
+ŏs, ossis|n
+oscĕn, oscĭnis|m
+ŏportet, ŏportuit,ere|v
