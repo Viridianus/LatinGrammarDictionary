@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Debug\LatinGrammarDictionary.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Debug\LatinGrammarDictionary.exe
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Debug\LatinGrammarDictionary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Debug\LatinGrammarDictionary.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Debug\LatinGrammarDictionary.exe
+c:\users\dell\documents\visual studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Debug\LatinGrammarDictionary.pdb
