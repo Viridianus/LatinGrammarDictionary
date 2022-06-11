@@ -1,0 +1,13 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.csprojResolveAssemblyReference.cache
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.exe.config
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.exe
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\bin\Release\LatinGrammarDictionary.pdb
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.csprojAssemblyReference.cache
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.csproj.CoreCompileInputs.cache
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.exe
+C:\Users\dz-zd\Documents\Visual Studio 2015\Projects\LatinGrammarDictionary\LatinGrammarDictionary\obj\Release\LatinGrammarDictionary.pdb
